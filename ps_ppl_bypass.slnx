@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ps_ppl_bypass.vcxproj" Id="09ffb8ad-f446-44a3-971d-45eb02527537" />
+</Solution>
